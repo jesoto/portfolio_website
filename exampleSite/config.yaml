@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Project Portfolio"
 theme: hugo-profile
 
 outputs:
@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Project Portfolio"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/logo.png"
@@ -119,8 +119,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Jesus Soto"
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I turn data into actionable insights"
+    content: "A passionate data analysis and data scientist"
     image: /images/hero.svg
     bottomImage:
       enable: true
