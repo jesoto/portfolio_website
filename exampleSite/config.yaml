@@ -179,21 +179,22 @@ params:
 and multichannel platforms. <br>
 ● Diagnose and forecast impacts on risk appetite and default probability."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Jr. Portfolio monitoring Analyst"
+        company: "Interbank"
+        companyUrl: "https://www.linkedin.com/company/interbank/about/"
+        date: "Jul 2022 - May 2023"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         info:
-          enable: true
+          enable: false
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          ● Develop predictive solutions and descriptive analysis to monitoring the risk of default on retail bank
+            products using Python, AWS Sagemaker and Tableau <br>
+          ● Implemented clustering models (K-Means) to identify profiles of defaulting clients and trigger
+          appropriate solutions. Successfully grouped defaulting clients, resulting in a reduction of default rate from 2.7% to 2.5%.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
 
       - job: "Junior Software Developer"
         company: "Apple"
