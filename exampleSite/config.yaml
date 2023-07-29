@@ -318,8 +318,9 @@ and multichannel platforms. <br>
           name: Demo
           link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Flask"
+          - "Python"
+          - "Azure"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
