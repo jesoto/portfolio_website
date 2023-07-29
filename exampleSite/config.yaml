@@ -241,6 +241,16 @@ and multichannel platforms. <br>
         content: |-
           Extracurricular Activities
         
+  - title: "MicroMasters Program in Data Science"
+        school:
+          name: "University of California San Diego"
+          url: "https://ucsd.edu/"
+        #GPA: "4.2 out of 5.0"
+
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+
       - title: "Bachelor in economics"
         school:
           name: "Pontifical Catholic University of Peru"
@@ -248,25 +258,16 @@ and multichannel platforms. <br>
         date: "2017 - 2022"
         #GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Team Member of a project management organization SEDIPRO focus in implement and teach about project management metodologies.
+            - Teaching fellow in the courses of Machine learning and Causal inference and Introduction to Macroeconomics.
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+
+    
 
   # Achievements
   achievements:
