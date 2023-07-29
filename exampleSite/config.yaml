@@ -232,22 +232,21 @@ and multichannel platforms. <br>
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "MicroMasters Program in Statistics and Data Science"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "Massachusetts Institute of Technology (MITx)"
+          url: "https://mitxonline.mit.edu/"
+        date: "May 2023 -Present"
+        #GPA: ""
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+        
+      - title: "Bachelor in economics"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "Pontifical Catholic University of Peru"
+          url: "https://www.linkedin.com/school/pucp/posts/?feedView=all"
+        date: "2017 - 2022"
+        #GPA: "3.9 out of 5.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
