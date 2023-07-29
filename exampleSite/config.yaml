@@ -136,10 +136,10 @@ params:
         - icon: fab fa-github
           url: https://github.com/jesoto
         - icon: fab fa-linkedin
-          url: https://example.com
+          url: https://www.linkedin.com/in/jessoto/
       customIcons:
-        - icon: /logo.png
-          url: "https://example.com"
+        #- icon: /logo.png
+        #  url: "https://example.com"
 
   # About
   about:
