@@ -174,7 +174,10 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "- sdasdasfa \n -asdasda /n - asdasdad"
+        content: "● Evaluate the credit pattern and risk appetite for retail banking products. <br>
+● Develop adjustments in the rules engine for credit assessment of leads, as well as integration with APIs
+and multichannel platforms. <br>
+● Diagnose and forecast impacts on risk appetite and default probability."
 
       - job: "Software Developer"
         company: "Amazon"
