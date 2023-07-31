@@ -121,7 +121,7 @@ params:
     title: "Jesus Soto"
     subtitle: "I turn data into actionable insights"
     content: "A passionate data analysis and data scientist"
-    image: /images/hero.svg
+    image: /images/carne.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
