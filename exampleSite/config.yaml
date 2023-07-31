@@ -128,7 +128,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/1tgjymgy0hrJGO_u2ZZqGslUD6aXakiRa/view?usp=drive_link"
       download: true
       newPage: false
     socialLinks:
@@ -329,7 +329,7 @@ and multichannel platforms. <br>
         content: Is this project we scrappe the news from Gestion, a financial newspaper from to peru to estimate the market sentiments using natural lenguage algorithms to convert into a quantitative measure
         image: /images/projects/nlp.jpg
         featured:
-          name: Demo V2
+          name: Repo
           link: https://github.com/jesoto/Sentiment_and_news-Peru/tree/test_yissus/thesis
         badges:
           - "Web Scrapping"
