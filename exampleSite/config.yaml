@@ -119,8 +119,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Jesus Soto"
-    subtitle: "I turn data into actionable insights"
-    content: "A passionate data analysis and data scientist"
+    subtitle: ""
+    content: "A passionate data analysis and data scientist that turn data into actionable insights"
     image: /images/carne.jpg
     bottomImage:
       enable: true
