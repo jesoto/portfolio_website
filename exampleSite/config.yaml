@@ -311,19 +311,19 @@ and multichannel platforms. <br>
           - icon: fab fa-linkedin
             url: https://www.linkedin.com/in/jessoto/
 
-      - title: Image Scrapper
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Image Credit Card Churn Prediction
+        content: In order to retain customers, we seek to predict whether customers will leave the service. For this purpose we will use classification algorithms such as Logistic Regression and Random forest. In the first part we did a quick introduction to the variables, data preprocessing, then a Exploratory data analysis and finally the results of the model performance.
         image: /images/projects/converter.jpg
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+          name: Code
+          link: https://github.com/jesoto/Churn-Prediction-Tarjetas-de-credito/blob/main/Proyecto_Tarjeta_de_cr%C3%A9dito.ipynb
         badges:
-          - "Flask"
+          - "Machine Learning"
           - "Python"
-          - "Azure"
+          - "Statistics"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/jesoto/Churn-Prediction-Tarjetas-de-credito/blob/main/Proyecto_Tarjeta_de_cr%C3%A9dito.ipynb
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.
